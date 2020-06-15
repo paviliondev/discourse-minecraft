@@ -1,0 +1,6 @@
+plugin:
+  minecraft_enabled:
+    default: true
+  minecraft_whitelist_trust_level:
+    default: 3
+    client: true
